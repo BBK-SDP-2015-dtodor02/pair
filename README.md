@@ -1,6 +1,6 @@
 # pair
 Connect Four - Scala version
-
+<br>
 Dimitar Todorov
 bbk username: dtodor02
 
